@@ -8,3 +8,5 @@ print("Division", a/b)
 print("Exponential", a**b)
 print("quotient on a is divided by b", a//b)
 print("remainder on a is divided by b", a%b)
+print("remainder on a is divided by b", a%b)
+
